@@ -20,7 +20,8 @@
       "[production]": {
         "db": "hana",
         "auth": "xsuaa"
-      }
+      },
+      "destinations": true
     }
   }
 }
