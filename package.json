@@ -17,6 +17,9 @@
   "private": true,
   "cds": {
     "requires": {
+      "server": {
+        "index": true
+      },
       "[production]": {
         "db": "hana",
         "auth": "xsuaa"
